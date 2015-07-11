@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Temasek-manta</RomName>
+  <VersionName>V14.6</VersionName>
+  <VersionNumber type="integer">20150711</VersionNumber>
+  <DirectUrl><![CDATA[https://bytebucket.org/khaon/ota-manta/raw/7f2d3bf99c6f60788b387e294c64761985205851/cm-12.1-20150711-UNOFFICIAL-manta.zip]]></DirectUrl>
+  <HttpUrl> <![CDATA[http://forum.xda-developers.com/nexus-10/development/rom-optipop-f2fs-ubertc-4-9-3-t3086601]]></HttpUrl>
+  <Android>5.1.1</Android>
+  <CheckMD5>667cf50f3c9ffa2b0d220b144cf8ed8e</CheckMD5>
+  <FileSize type="integer">260149863</FileSize>
+  <Developer nil="true"/>
+  <WebsiteURL><![CDATA[http://forum.xda-developers.com/nexus-10/development/rom-optipop-f2fs-ubertc-4-9-3-t3086601]]></WebsiteURL>
+  <DonateURL nil="true" />
+  <Changelog>V14.6</Changelog>
+</ROM>
