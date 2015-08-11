@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Temasek-manta</RomName>
-  <VersionName>V15.5</VersionName>
-  <VersionNumber type="integer">20150810</VersionNumber>
+  <VersionName>V15.6</VersionName>
+  <VersionNumber type="integer">20150811</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl> <![CDATA[https://drive.google.com/file/d/0B9kxrJw-dzUmVUE0R0VYOWtiMEE/view?usp=sharing]]></HttpUrl>
+  <HttpUrl> <![CDATA[https://drive.google.com/open?id=0B9kxrJw-dzUmSEhHN1MzanRiR1E]]></HttpUrl>
   <Android>5.1.1</Android>
-  <CheckMD5>ccbce60ef39c96a63cc1a4abcda50efa</CheckMD5>
-  <FileSize type="integer">272885914</FileSize>
+  <CheckMD5>065d9de33f7e783a305d31f61b3b891c</CheckMD5>
+  <FileSize type="integer">272201665</FileSize>
   <Developer nil="true"/>
   <WebsiteURL><![CDATA[http://forum.xda-developers.com/nexus-10/development/rom-optipop-f2fs-ubertc-4-9-3-t3086601]]></WebsiteURL>
   <DonateURL nil="true" />
-  <Changelog>V15.5</Changelog>
+  <Changelog>V15.6</Changelog>
 </ROM>
