@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>Temasek-manta</RomName>
-  <VersionName>V17.4</VersionName>
-  <VersionNumber type="integer">20151002</VersionNumber>
-  <DirectUrl> <![CDATA[http://46.105.101.215/roms/cm-12.1-20151002-UNOFFICIAL-by.temasek-manta.zip]]></DirectUrl>
+  <VersionName>17.5</VersionName>
+  <VersionNumber type="integer">20151004</VersionNumber>
+  <DirectUrl> <![CDATA[http://46.105.101.215/khaon/roms/cm-12.1-20151004-UNOFFICIAL-by.temasek-manta.zip]]></DirectUrl>
   <HttpUrl nil="true" />
   <Android>5.1.1</Android>
-  <CheckMD5>f089802e5973fc2f59cbaea0ca3492d4</CheckMD5>
-  <FileSize type="integer">262051852</FileSize>
+  <CheckMD5>f203e43a88e733afe7842a72bd65b526</CheckMD5>
+  <FileSize type="integer">262128218</FileSize>
   <Developer nil="true"/>
   <WebsiteURL><![CDATA[http://forum.xda-developers.com/nexus-10/development/rom-optipop-f2fs-ubertc-4-9-3-t3086601]]></WebsiteURL>
   <DonateURL nil="true" />
-  <Changelog>V17.4</Changelog>
+  <Changelog>17.5</Changelog>
 </ROM>
+
