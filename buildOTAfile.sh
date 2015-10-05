@@ -21,7 +21,7 @@ output_folder=~/android/Packages/roms/manta_ota.xml;
 
 VersionName="17.5";
 md5=`md5sum $pathToTheRom | cut -d ' ' -f 1`;
-todayDate=`date +%F | sed s@-@@g`;
+todayDate=`date +%F%H | sed s@-@@g`;
 # Change this if using another versionNumber way
 versionNumber=$todayDate;
 size=`wc -c $pathToTheRom | cut -d ' ' -f 1`;
