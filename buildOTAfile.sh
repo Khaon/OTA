@@ -37,7 +37,7 @@ todayDate=`date +%F%H | sed s@-@@g`;
 versionNumber=$todayDate;
 size=`wc -c $pathToTheRom | cut -d ' ' -f 1`;
 websiteURL="http://forum.xda-developers.com/nexus-10/development/rom-optipop-f2fs-ubertc-4-9-3-t3086601";
-downloadUrl=http://46.105.101.215/khaon/roms/$romName
+downloadUrl=http://nickv.xyz/khaon/roms/$romName
 
 (cat << EOF) > $ota_file;
 <?xml version="1.0" encoding="UTF-8"?>
