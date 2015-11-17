@@ -18,16 +18,16 @@ device_name=manta;
 output_folder=/home/khaon/out/aosp_master;
 
 # This has to be the path to your package rom
-pathToTheRom=$output_folder/target/product/$device_name/aosp_manta-ota-eng.khaon.zip;
+pathToTheRom=$output_folder/target/product/$device_name/aosp_manta-*.zip;
 romName=`basename $pathToTheRom`;
 
 # Path to your xml ota file
-ota_file=~/android/Packages/roms/aosp_master_branch/OTA.xml
-
-VersionName="Android Master Branch";
+ota_file=~/android/Packages/roms/aosp_master_branch/OTA.xml;
 
 md5=`md5sum $pathToTheRom | cut -d ' ' -f 1`;
 todayDate=`date +%F%H | sed s@-@@g`;
+
+VersionName="Android Master Branch `date "+%m-%d-%Y %H:%M:%S"`";
 
 # Change this if using another versionNumber way
 
